@@ -215,7 +215,7 @@ Training model definition:
 
 ## 10. Results 
 
-Below is the training/evaluation output you provided (kept verbatim). Note: your command references `train_moe.v4.py` in the log, but the current filename in this repo is `train_moe.py`.
+
 
 ```text
 (.venv) (base) PS C:\Users\pc 1\hindi_df> python train_moe.v4.py `
