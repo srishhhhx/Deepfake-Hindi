@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Model checkpoints and weights
+models/
+feature_extraction_models/
+*.pth
+*.ckpt
+*.safetensors
+
+# Data directories
+processed/
+metadata/
+ptm/
+
+# Logs
+*.log
+copy_features.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node modules (for frontend)
+node_modules/
+
+# Frontend build artifacts (explicit)
+frontend/node_modules/
+frontend/dist/
+
+# Temporary files
+*.tmp
+*.temp
+
+dummy.txt
+figures_clean_profile/
+global_xai_results*/
+frontend/src/components/*backup*
+
+# Backend runtime-generated artifacts
+xai_exports/
+backend/xai_exports/
+backend/models/
+
+# Env files
+.env
+backend/.env
+
+
+README_diff_project.md
+
+backup/

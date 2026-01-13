@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+soundfile
+librosa
+transformers>=4.36
+tqdm
+pandas
+numpy
+faster-whisper
+huggingface-hub
+torch
+seaborn
+scipy
+scikit-learn
+matplotlib
