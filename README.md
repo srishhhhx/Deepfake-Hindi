@@ -36,7 +36,7 @@ The system provides:
 
 ## 2. Demo Video
 
-[Demo video]
+[Demo video](https://github.com/user-attachments/assets/437c5b09-0b9b-4000-8f69-facf8780f840)
 
 ## 3. Performance & Architecture Highlights
 
