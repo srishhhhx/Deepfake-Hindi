@@ -42,7 +42,7 @@ The system provides:
 
 ### Architectural Highlights
 
-* **Dual-PTM MoE Ensemble:** The model routes between HuBERT and Wav2Vec2 expert logits using a learned gate.
+* **Dual-PTM MoE Ensemble:** The model routes between HuBERT and Wav2Vec2 expert logits using a gate.
 
 * **Pooled Feature Design (1536-D per expert):** Each PTM produces pooled statistics (mean + std), enabling fast inference while trading off true temporal interpretability.
 
